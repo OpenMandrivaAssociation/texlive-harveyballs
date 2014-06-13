@@ -6,7 +6,7 @@
 # catalog-version 1.1
 Name:		texlive-harveyballs
 Version:	1.1
-Release:	5
+Release:	6
 Summary:	Create Harvey Balls using TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/harveyballs
