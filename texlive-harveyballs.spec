@@ -3,7 +3,7 @@ Version:	32003
 Release:	2
 Summary:	Create Harvey Balls using TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/harveyballs
+URL:		https://www.ctan.org/tex-archive/graphics/pgf/contrib/harveyballs
 License:	GPL3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/harveyballs.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/harveyballs.doc.r%{version}.tar.xz
